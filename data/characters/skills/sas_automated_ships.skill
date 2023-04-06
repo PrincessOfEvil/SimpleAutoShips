@@ -1,0 +1,16 @@
+{
+	"id":"sas_automated_ships",
+	"governingAptitude":"technology",
+	"compressHullmods":false,
+	"scope":CUSTOM,
+	"scopeStr":"all automated ships",
+	"effectGroups":[
+		{
+			"requiredSkillLevel":1,
+			"effects":[
+				{"type":"CHARACTER_STATS", "script":"data.princess.AutomatedShips$LevelE"},
+				{"type":"ALL_SHIPS_IN_FLEET", "script":"com.fs.starfarer.api.impl.campaign.skills.AutomatedShips$Level1"},
+			]
+		}
+	],
+}

@@ -1,0 +1,10 @@
+{
+	"id":"simpleautoships",
+	"name":"Simple AutoShips",
+	"author":"Princess of Evil",
+	"version":"1.0.0",
+	"description":"Lets you use automated ships earlier.",
+	"gameVersion":"0.95.1a-RC5",
+	"modPlugin" : "data.princess.SASMCP",
+	"replace" : [ "data/characters/skills/automated_ships.skill" ]
+}

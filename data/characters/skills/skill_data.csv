@@ -1,0 +1,4 @@
+id,name,order,tier,reqPoints,reqPointsPerExtraSkill,description,author,combat officer,admiral,admin,tags,icon,
+automated_ships,AI Persuasion,1090,5,4,2,[REDACTED],Hegemony COMSEC,,,,,graphics/icons/skills/automated_ships.png,
+,,,,,,,,,,,,,
+sas_automated_ships,Automated Ships,10000,5,,,,,,,,npc_only,graphics/icons/skills/automated_ships.png,
